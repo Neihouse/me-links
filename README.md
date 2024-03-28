@@ -1,3 +1,5 @@
+- [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) About
+Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) organize - The file management automation tool
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in GTD, Todo.txt, OBTF (One Big Text File), Bullet journal (notes on paper), spreadsheets, index cards, inbox zero and desktop zero.
 
