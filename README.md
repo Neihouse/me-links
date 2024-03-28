@@ -1,3 +1,4 @@
+- [Structures of Directory in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/) A directory is a container that is used to contain folders and files. It organizes files and folders in a hierarchical manner.  #directory#organize#files#folders#hierarchical
 - [Best Landing Page Builders - Examples, Tools, and Components | Landing Page FYI](https://landingpage.fyi) Build your best landing page with these hand-picked examples, tools and guides.
 
 
