@@ -1,3 +1,5 @@
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) A curated list of awesome READMEs
+
 - [Zabriskije/PNG-to-ICNS](https://github.com/Zabriskije/PNG-to-ICNS) Convert PNG to ICNS & Iconset via Quick Actions
 - [nicolodiamante/prune](https://github.com/nicolodiamante/prune) Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac.
 - [xvoland/Extract](https://github.com/xvoland/Extract) Bash/Zsh function for extract: .zip, .rar, .bz2, .gz, .zlib, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz, etc.
