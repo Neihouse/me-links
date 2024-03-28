@@ -1,3 +1,4 @@
+- [manufactured/macOS-utilities-Finder-Tags-via-Keystroke](https://github.com/manufactured/macOS-utilities-Finder-Tags-via-Keystroke) Tag macOS Finder items via keyboard shortcut
 - [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) About
 Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) organize - The file management automation tool
