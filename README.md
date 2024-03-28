@@ -1,3 +1,6 @@
+- [Adam Ten B2B Mita Gami - Mayan Warrior - Guadalajara 2023](https://www.youtube.com/watch?v=eipULbNU4Tk&t=9306s) "The first time we took part in the wonderful journey of the Mayan Warrior was at Burning Man 22, Wednesday’s sunrise.
+The Mayan gave us a lot of inspiration to create. We were very excited to play our music on the  art car and were always happy to be back to play at the fundraising events and see all the camp members who became our family.
+Thank you for everything!" #dj#house#mix#music#adam-ten#mita-gami
 - [Adam Ten @ Petersen Automotive Museum, LA](https://www.youtube.com/watch?v=xl2rp-mRfoU&t=3692s) Adam Ten plays a DJ set from the Stranger Than party at the Petersen Automotive Museum in Los Angeles 
  #music#mix#dj#pioneer#la#house#tel-aviv#top-notch
 - [Heptabase Fundamentals 103: Managing card databases with tags and properties](https://www.youtube.com/watch?v=4kwIfzIJ0o0&t=2s) #wiki#whiteboard#pdf#cards#knowledgebase
