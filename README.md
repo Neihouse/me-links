@@ -1,3 +1,6 @@
+- [slowernews/hamster-system](https://github.com/slowernews/hamster-system) Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in GTD, Todo.txt, OBTF (One Big Text File), Bullet journal (notes on paper), spreadsheets, index cards, inbox zero and desktop zero.
+
+
 - [Data Structures Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/) Data structures are essential components that help organize and store data efficiently in computer memory. #data#structures#components#organize#store
 - [Structures of Directory in Operating System - GeeksforGeeks](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/) A directory is a container that is used to contain folders and files. It organizes files and folders in a hierarchical manner.  #directory#organize#files#folders#hierarchical
 - [Best Landing Page Builders - Examples, Tools, and Components | Landing Page FYI](https://landingpage.fyi) Build your best landing page with these hand-picked examples, tools and guides.
