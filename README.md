@@ -1,3 +1,6 @@
+- [Mita Gami X Omri. live set from HARMONIZZ - spiritual music journey](https://www.youtube.com/watch?v=YsVhlan3ZL4) Mita Gami X Omri. gave us a morning to remember. 
+Two hours of special music at one of the most beautiful places on earth to be when the sun rises. We love you guys and can't wait till next time.
+ #mita-gami#omri#dj#pioneer#music#house
 - [Adam Ten B2B Mita Gami - Mayan Warrior - Guadalajara 2023](https://www.youtube.com/watch?v=eipULbNU4Tk&t=9306s) "The first time we took part in the wonderful journey of the Mayan Warrior was at Burning Man 22, Wednesday’s sunrise.
 The Mayan gave us a lot of inspiration to create. We were very excited to play our music on the  art car and were always happy to be back to play at the fundraising events and see all the camp members who became our family.
 Thank you for everything!" #dj#house#mix#music#adam-ten#mita-gami
