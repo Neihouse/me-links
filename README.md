@@ -1,3 +1,4 @@
+- [earthly/earthly](https://github.com/earthly/earthly) Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) A curated list of awesome READMEs
 
 - [Zabriskije/PNG-to-ICNS](https://github.com/Zabriskije/PNG-to-ICNS) Convert PNG to ICNS & Iconset via Quick Actions
