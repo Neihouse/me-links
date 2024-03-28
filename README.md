@@ -1,3 +1,4 @@
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) organize - The file management automation tool
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in GTD, Todo.txt, OBTF (One Big Text File), Bullet journal (notes on paper), spreadsheets, index cards, inbox zero and desktop zero.
 
 
