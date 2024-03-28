@@ -1,3 +1,4 @@
+- [Heptabase Fundamentals 102: Organizing topics with nested whiteboards and tab groups](https://www.youtube.com/watch?v=zlGRxZHlDgM&t=5s) #cards#pdf#whiteboard#wiki
 - [Heptabase Fundamentals 101: Sense-making with whiteboards](https://www.youtube.com/watch?v=HgvR2QkfwG0) Make sense of complex topics.
 Heptabase empowers you to visually make sense of your learning, research, and projects. #pdf#cards#whiteboard#knowledgebase#wiki
 - [outline/outline](https://github.com/outline/outline) The fastest knowledge base for growing teams. Beautiful, real-time collaborative, feature-packed, and markdown compatible. 
