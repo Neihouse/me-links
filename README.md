@@ -1,3 +1,6 @@
+- [Instyll - Supercharged markdown notes](https://instyll.dev/) Unleash your note-taking superpowers with our intuitive, markdown-based platform. Boost efficiency, achieve more, and revolutionize your productivity journey.
+
+
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [tabOS Web](https://tabos.cloud/) Tab management, AI-chats, notes, images, and RSS-feeds,
 all side-by-side, always one click away.
