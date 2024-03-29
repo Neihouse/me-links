@@ -1,3 +1,9 @@
+- [Lightning AI | Turn ideas into AI, Lightning fast](https://lightning.ai/) Turn ideas into AI, Lightning fast
+Code together. Prototype. Train. Deploy. Host AI web apps.
+From your browser - with
+   
+zero
+setup
 - [earthly/earthly](https://github.com/earthly/earthly) Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) A curated list of awesome READMEs
 
