@@ -1,3 +1,5 @@
+- [tabOS Web](https://tabos.cloud/) Tab management, AI-chats, notes, images, and RSS-feeds,
+all side-by-side, always one click away.
 - [Lightning AI | Turn ideas into AI, Lightning fast](https://lightning.ai/) Turn ideas into AI, Lightning fast
 Code together. Prototype. Train. Deploy. Host AI web apps.
 From your browser - with
