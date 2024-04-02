@@ -1,3 +1,4 @@
+- [Microsoft Copilot: Your everyday AI companion](https://copilot.microsoft.com/)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Eraser: Wireframes](https://www.eraser.io/use-case/wireframes) Documents & diagrams for engineering teams #documents#diagrams#engineering
 - [Getting Started](https://developer.themoviedb.org/docs/getting-started) #database#moive
