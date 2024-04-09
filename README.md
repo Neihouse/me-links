@@ -1,3 +1,5 @@
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) About
+SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [AI Town](https://www.convex.dev/ai-town)
 - [‎Gemini - chat to supercharge your ideas](https://gemini.google.com)
 - [ChatGPT](https://chat.openai.com/)
